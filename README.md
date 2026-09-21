@@ -8,9 +8,10 @@ A proof-of-concept userland process hiding and persistence simulation built for 
 
 The diagram below illustrates the operational difference between standard system process listing and process filtering via library hooking:
 
-![Architecture Diagram](./image1.png)
+![Architecture  PCB](./image2.png)
 
-![Architecture Diagram PCB](./image2.png)
+
+![Architecture Diagram](./Image1.png)
 
 ### 1. Standard Execution (Top Half)
 Under normal execution:
